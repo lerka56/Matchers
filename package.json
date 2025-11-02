@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Сортировка героев по уровню здоровья",
   "main": "src/js/app.js",
-  "type": "module",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
